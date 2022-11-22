@@ -10,42 +10,51 @@
     height:150px;
     border-radius:8px;
     border: 2px solid #e7e7e7
-    
+}
+#rock{
+    margin:12px;
+}
+#paper{
+    margin:12px;
+}
+#scissor{
+    margin:12px;
 }
 body{
     background-color:rgba(40, 152, 162, 0.819);
 }
 .jaff{
-    bottom:100px;
-    font-weight:900;
+    position:relative;
+    margin: 0 auto;
+    font-weight:1000;
     text-align:center;
     font-family: Copperplate, Papyrus, fantasy;
     shadow:black;
+    font-size:40px
 }
 #printer{
     font-weight: bold;
 }
 #head{
-    font-size:80px;
+    font-size:100px;
     text-align:center;
     font-family: "Sofia", sans-serif;
 }
 .buttons{
     text-align:center;
+    margin:15px
 }
-#sol{
-    top:50px;
-    font-size:40px;
-}
+
 body{
     background-image:url("https://cdn2.vectorstock.com/i/1000x1000/58/96/rainbow-background-retro-seamless-pattern-50s-vector-31775896.jpg");
-    background-image-opacity:0
 }
 .me{
+    position:relative;
+    margin: 0 auto;
     text-align:center;
-    bottom:10px;   
+    bottom:-70px;   
     transition-duration:2s;
-    transition-property: width;
+    transition-property:width;
     background:lightskyblue;
     width:500px;
     height:20px;
@@ -53,4 +62,32 @@ body{
 .me:hover{
 width:1520px;
 height:22px;
+}
+.pandagow{
+    background-color:white;
+    position:relative;
+    margin: 0 auto;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align:center;
+    text-weight:bold;
+    font-size:35px;
+    width:1ppx
+    height:500px
+}
+.rete{
+    bottom:10px;
+    text-align:center;
+    border:#130404
+}
+.reset{
+    border-radius:6px; 
+    background-color:rgb(113, 172, 204) 
+}
+.reset:hover{
+    cursor:pointer;
+    background-color: rgb(163, 191, 216);
+}
+.enjaay{
+    transition-property:width;
+    transition-time:2s;
 }
