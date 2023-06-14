@@ -6,7 +6,7 @@ Welcome to the most electrifying game of Rock, Paper, Scissors! Get ready to roc
 
 ## How to Play
 
-1. Visit the game's website: [Rock Paper Scissors](https://your-github-username.github.io/Rock-Paper-Scissors](https://dheeerazzz.github.io/Rock-Paper-Scissor/)
+1. Visit the game's website: ![Rock Paper Scissors](https://your-github-username.github.io/Rock-Paper-Scissors](https://dheeerazzz.github.io/Rock-Paper-Scissor/)
 2. Choose your move by clicking on one of the three options: Rock, Paper, or Scissors.
 3. Watch out for The Rock's mighty throws!
 4. Brace yourself for the epic battle as you see the winner announced on the screen.
